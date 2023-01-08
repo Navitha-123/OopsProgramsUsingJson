@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace OopsProgramUsingJson
 {
-    public class FetchForJsonRiceData
+    public class FetchForJsonplusuesandwheat_UC2
     {
         public Rice Read(string path)
         {
